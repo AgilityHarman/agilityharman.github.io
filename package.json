@@ -1,0 +1,31 @@
+{
+  "homepage": "http://agilityharman.github.io",
+  "name": "agilityharman.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "emailjs-com": "^3.2.0",
+    "expr-eval": "^2.0.2",
+    "jquery": "^3.6.0",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
+    "react-ga": "^3.3.0",
+    "react-onclickoutside": "^6.11.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "gh-pages": "^3.2.3",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
