@@ -12,8 +12,6 @@
 /.next/
 /out/
 
-.github
-.vscode
 # production
 /build
 
