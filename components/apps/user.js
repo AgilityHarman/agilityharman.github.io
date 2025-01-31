@@ -121,7 +121,21 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" mt-3 list-building">A dynamic professional with 11+ years of rich experience in Web-based PWA Applications (majorly) and Mobile App Development. Passionate for building powerful apps using modular, elegant and idiomatic JavaScript, backed by modern and robust tools, processes, and methodologies to ensure consistently high quality results.</li>
+                <li className=" mt-3 list-building">Innovative and results-driven Software Engineering Manager with over 14 years of experience in web and 
+                          mobile application development. Currently leading engineering teams at LexisNexis Risk Solutions, driving 
+                          scalable and high-performance software solutions. Proven track record of delivering mission-critical 
+                          applications for Fortune 500 companies, including Bank of England, Johnson & Johnson, and GSK. 
+                          Expertise in ReactJS, Micro FrontEnd framework – Piral, TypeScript, GraphQL, and cloud-based 
+                          architectures, with a focus on improving application performance and enhancing user experiences.</li>
+                <li className=" mt-3 list-building">Successfully optimized application performance, reducing load times and enhancing scalability.</li> 
+                <li className=" mt-3 list-building">Led cross-functional teams in agile environments, ensuring the timely and high-quality delivery of 
+                projects.</li>
+                <li className=" mt-3 list-building">Adept at architectural decision-making, performance tuning, and cloud integrations.</li>
+                <li className=" mt-3 list-building">Passionate about fostering innovation, mentoring engineers, and driving technical excellence.</li>
+                <li className=" mt-3 list-building">Strong leadership skills in managing engineering teams, talent development, and succession 
+                planning.</li>
+                <li className=" mt-3 list-building">Expertise in software development lifecycle (SDLC), system design, and enterprise architecture.</li>
+                <li className=" mt-3 list-building">Experienced in stakeholder management, roadmap planning, and budget forecasting.</li>
                 <li className=" mt-3 list-star"> Star of the month (May 2017) in AgilityWorks India for outstanding performance.</li>
                 <li className=" mt-3 list-star">President award Q4 2014 in Ericsson Global India Limited for outstanding performance and innovation drive.</li>
                 <li className=" mt-3 list-star">President award Q4 2013 in Ericsson Global India Limited for outstanding performance and innovation drive.</li>
@@ -169,7 +183,7 @@ function Skills() {
                     I've worked with a wide variety of programming languages & frameworks.
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-                    <div> My areas of expertise are <strong className="text-ubt-gedit-orange">Front-end development, React.js & JavaScript!</strong></div>
+                    <div> My areas of expertise are <strong className="text-ubt-gedit-orange">Team Management, Front-end development, React.js, Piral, TypeScript & JavaScript!</strong></div>
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
                     <div>Here are my most frequently used</div>
