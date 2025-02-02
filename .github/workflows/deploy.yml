@@ -33,7 +33,8 @@ jobs:
 
       - name: Exporting Bundle Files
         run: npm run export
-      - run: touch ./out/.nojekyll
+      - name: Add .nojekyll file
+        run: touch ./out/.nojekyll
 
       - name: Deploy to Github-Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
